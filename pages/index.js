@@ -6,4 +6,5 @@ const HomePage = () => {
 
 export default HomePage;
 
-// special page -- if request includes nothing but the root this will get rendered -- domain.com
+// special page -- if request includes nothing but the root this will get rendered -- domain.
+// note -- folder structures matter for nested routing
